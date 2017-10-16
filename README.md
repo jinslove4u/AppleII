@@ -1,3 +1,3 @@
 # AppleII
-A famous Old computer
-todo : FPGA small AppleII
+A famous Old computer.
+todo : Make a FPGA small AppleII.
